@@ -69,7 +69,7 @@ char* decode(char a, char b, char c) {
 }
 
 int main() {
-    char msg[1000] = "RYAN DAVID";
+    char msg[1000] = "Paveen";
     char enc[1000] = "";
     char dec[1000] = "";
 
