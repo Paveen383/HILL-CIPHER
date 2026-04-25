@@ -103,7 +103,7 @@ int main() {
 
 ## OUTPUT
 
-<img width="1862" height="988" alt="image" src="https://github.com/user-attachments/assets/7f2c9559-dd06-42f7-a164-fd62c3a4f0c6" />
+<img width="1702" height="739" alt="image" src="https://github.com/user-attachments/assets/eb4a87d4-5318-49fd-8958-713f76c032a9" />
 
 
 ## RESULT
